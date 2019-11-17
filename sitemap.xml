@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/hello-world/</loc>
-    <lastmod>2019-11-09T10:42:01-05:00</lastmod>
+    <loc>http://ridiculoushaircut.com/apps/</loc>
+    <lastmod>2019-11-10T23:45:01-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-11-09T10:42:01-05:00</lastmod>
+    <loc>http://ridiculoushaircut.com/apps/dialist/</loc>
+    <lastmod>2019-11-10T23:45:01-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2019-11-09T10:42:01-05:00</lastmod>
+    <loc>http://ridiculoushaircut.com/</loc>
+    <lastmod>2019-11-10T23:45:01-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://ridiculoushaircut.com/about/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://ridiculoushaircut.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://ridiculoushaircut.com/tags/</loc>
   </url>
   
 </urlset>

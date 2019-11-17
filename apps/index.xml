@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ridiculous Haircut</title>
-    <link>http://ridiculoushaircut.com/</link>
-    <description>Recent content on Ridiculous Haircut</description>
+    <title>Apps on Ridiculous Haircut</title>
+    <link>http://ridiculoushaircut.com/apps/</link>
+    <description>Recent content in Apps on Ridiculous Haircut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Nov 2019 23:45:01 -0500</lastBuildDate>
     
-	<atom:link href="http://ridiculoushaircut.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ridiculoushaircut.com/apps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://ridiculoushaircut.com/apps/dialist/</guid>
       <description>Dialist started when someone couldn&amp;rsquo;t remember the name of a restaurant. The number was in their contacts app, but with hundreds of contacts and no name to search by it was essentially impossible to find. Adding infrequently used contacts to the Favorites list would be an easy fix, but it just abuses and bloats the Favorites. Wouldn&amp;rsquo;t it be great if we could have multiple Favorites lists? One for work, one for family, one for takeout, etc.</description>
-    </item>
-    
-    <item>
-      <title>About Ridiculous Haircut</title>
-      <link>http://ridiculoushaircut.com/about/</link>
-      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://ridiculoushaircut.com/about/</guid>
-      <description>Ridiculous Haircut is all about making life a little easier. It&amp;rsquo;s just getting started, so watch this space&amp;hellip;</description>
     </item>
     
   </channel>
